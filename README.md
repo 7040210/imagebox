@@ -2,7 +2,8 @@
 
 ## 参数
 
-linkTitle: 点击图片提示信息，默认为 '点击查看原图' 
+linkTitle: 点击图片提示信息，默认为 '点击查看原图'  
+
 direction: 箭头显示方向，水平方向 (horizontal) 和垂直方向 (vertical)，默认为 'horizontal'
 
 ## 如何使用
