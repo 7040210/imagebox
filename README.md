@@ -11,17 +11,17 @@ direction: 箭头显示方向，水平方向 (horizontal) 和垂直方向 (verti
 1、导入
 
 ```
-  	<link rel="stylesheet" href="css/jquery.imagebox.css" />
-	<script type="text/javascript" src="js/jquery.imagebox.js"></script>
+<link rel="stylesheet" href="css/jquery.imagebox.css" />
+<script type="text/javascript" src="js/jquery.imagebox.js"></script>
 ```
 
 2、使用
 
 ```
-	$('element').imagebox();
+$('element').imagebox();
 
-	$('element').imagebox({
-		linkTitle: '查看原图',
-		direction: 'vertical'
-	});
+$('element').imagebox({
+	linkTitle: '查看原图',
+	direction: 'vertical'
+});
 ```
